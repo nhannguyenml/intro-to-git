@@ -6,3 +6,4 @@ green
 blue 
 indigo
 purple
+It happen after raining along with sunshine
